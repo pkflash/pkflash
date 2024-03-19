@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on AI applications to games
-- 🌱 I’m currently learning about VR development
+- 🔭 I’m currently working on AI applications for autonomous driving
+- 🌱 I’m currently learning about pytorch and three.js
 - 📫 How to reach me: anguy424@ucsc.edu
 - 😄 Pronouns: he/him
 - ❓  Ask me about: Super Smash Bros. (I spam pk fire c:)
