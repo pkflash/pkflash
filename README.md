@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📫 How to reach me: anguy424@ucsc.edu
+- 📫 How to reach me: ann144@ucsd.edu
 - 😄 Pronouns: he/him
 - ❓  Ask me about: Super Smash Bros. (I spam pk fire c:)
 - ⚡ Fun Fact: I've done at least 1 season of basically every popular sport when I was little, and stuck with a few of them for longer than that.
